@@ -2,8 +2,6 @@
 All items above $100 will have a shipping cost of 2% added to the total price. 
 The user will be able to see the shipping costs, item cost, and total costs. 
  */
-
-
 import java.util.Scanner; 
 
 public class ShipCostCalculator {
